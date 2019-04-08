@@ -1,9 +1,9 @@
 # Tone-Keyboard
 ## DESCRIPTION
- 4 tone buttons: Plays four different notes(C, D, E, F) and lights corresponding LEDs
- Replay button: As notes are played, device stores the notes and replays them (for as long as user pressed the note)
- Reset button: Clears the stored notes
- LCD displays notes as they are pressed and replayed
+ 4 tone buttons: Plays four different notes(C, D, E, F) and lights corresponding LEDs <br />
+ Replay button: As notes are played, device stores the notes and replays them (for as long as user pressed the note) <br />
+ Reset button: Clears the stored notes <br />
+ LCD displays notes as they are pressed and replayed <br />
   
 ## CIRCUIT
 - Six buttons from +5V to analog in 0 through 5
